@@ -1,0 +1,7 @@
+# LAB-WORK--SEM-VI
+
+SUBJECTS :-
+
+1. .NET
+Lab 1
+Lab 2
