@@ -1,0 +1,15 @@
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/bin/Debug/net6.0/Numbers
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/bin/Debug/net6.0/Numbers.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/bin/Debug/net6.0/ref/Numbers.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/bin/Debug/net6.0/Numbers.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/ref/Numbers.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-2/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache
