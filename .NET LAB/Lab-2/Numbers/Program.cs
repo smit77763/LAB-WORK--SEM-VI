@@ -15,9 +15,6 @@ namespace Program
             Explore.decimalType();
         }
 
-
-
-
     }
 
     static class Explore
