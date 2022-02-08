@@ -1,0 +1,15 @@
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/bin/Debug/net6.0/Sample Class
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/bin/Debug/net6.0/Sample Class.deps.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/bin/Debug/net6.0/Sample Class.runtimeconfig.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/bin/Debug/net6.0/Sample Class.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/bin/Debug/net6.0/ref/Sample Class.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/bin/Debug/net6.0/Sample Class.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.csproj.AssemblyReference.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.AssemblyInfoInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.AssemblyInfo.cs
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.csproj.CoreCompileInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/ref/Sample Class.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Sample Class/obj/Debug/net6.0/Sample Class.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/bin/Debug/net6.0/Q3-Properties
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/bin/Debug/net6.0/Q3-Properties.deps.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/bin/Debug/net6.0/Q3-Properties.runtimeconfig.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/bin/Debug/net6.0/Q3-Properties.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/bin/Debug/net6.0/ref/Q3-Properties.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/bin/Debug/net6.0/Q3-Properties.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.csproj.AssemblyReference.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.AssemblyInfoInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.AssemblyInfo.cs
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.csproj.CoreCompileInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/ref/Q3-Properties.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-4/Q3-Properties/obj/Debug/net6.0/Q3-Properties.genruntimeconfig.cache
