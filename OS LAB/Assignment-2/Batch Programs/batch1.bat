@@ -1,4 +1,4 @@
-echo off;
+@ echo off;
 @REM labeling
 :menu 
 echo Menu 
@@ -8,7 +8,7 @@ echo 3. Display Today's Date And Time
 echo 4. Make abc.txt file as read-only 
 echo 5. Exit from menu  
 
-set /p ch=enter choice 1 to 5
+set /p ch=Enter your choice:%=%
 
 if %ch%==1 goto label-1
 if %ch%==2 goto label-2
