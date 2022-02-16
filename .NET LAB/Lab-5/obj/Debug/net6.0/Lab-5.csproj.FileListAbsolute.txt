@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Professional\Study Materials\SEM 6\LAB-WORK--SEM-VI\.NET LAB\Lab-5\bin\Debug\net6.0\Lab-5.exe
 D:\Professional\Study Materials\SEM 6\LAB-WORK--SEM-VI\.NET LAB\Lab-5\bin\Debug\net6.0\Lab-5.deps.json
 D:\Professional\Study Materials\SEM 6\LAB-WORK--SEM-VI\.NET LAB\Lab-5\bin\Debug\net6.0\Lab-5.runtimeconfig.json
@@ -13,3 +14,20 @@ D:\Professional\Study Materials\SEM 6\LAB-WORK--SEM-VI\.NET LAB\Lab-5\obj\Debug\
 D:\Professional\Study Materials\SEM 6\LAB-WORK--SEM-VI\.NET LAB\Lab-5\obj\Debug\net6.0\Lab-5.pdb
 D:\Professional\Study Materials\SEM 6\LAB-WORK--SEM-VI\.NET LAB\Lab-5\obj\Debug\net6.0\Lab-5.genruntimeconfig.cache
 D:\Professional\Study Materials\SEM 6\LAB-WORK--SEM-VI\.NET LAB\Lab-5\obj\Debug\net6.0\ref\Lab-5.dll
+=======
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/bin/Debug/net6.0/Lab-5
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/bin/Debug/net6.0/Lab-5.deps.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/bin/Debug/net6.0/Lab-5.runtimeconfig.json
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/bin/Debug/net6.0/Lab-5.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/bin/Debug/net6.0/ref/Lab-5.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/bin/Debug/net6.0/Lab-5.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.csproj.AssemblyReference.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.AssemblyInfoInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.AssemblyInfo.cs
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.csproj.CoreCompileInputs.cache
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/ref/Lab-5.dll
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.pdb
+/home/kali/Documents/LAB WORK  SEM VI/.NET LAB/Lab-5/obj/Debug/net6.0/Lab-5.genruntimeconfig.cache
+>>>>>>> 16960a57adc2001a1a0e80e9ab2a996e61818b37
