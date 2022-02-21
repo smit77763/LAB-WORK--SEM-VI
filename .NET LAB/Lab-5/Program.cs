@@ -322,15 +322,8 @@ class Program
         Console.WriteLine($"\n Rent for Today : ");
 
         double rentForToday = 0;
-        // foreach (RentedVehicle rentedVehicle in RentedVehicle._rentedVehicleList)
-        // {
-        //     if (rentedVehicle.EndDateOfRent == DateTime.Now)
-        //     {
-        //         // Console.WriteLine($"{vehicle.Name} ({vehicle.NumberOfCar}) ");
-        //         rentForToday += rentedVehicle.CalculateRent();
-        //     }
 
-        // }
+
 
         foreach (var field in list)
         {
