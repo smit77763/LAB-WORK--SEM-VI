@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\ConcurrentSample\\ConcurrentSample.csproj": {}
+    "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\Collections\\ConcurrentSample\\ConcurrentSample.csproj": {}
   },
   "projects": {
-    "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\ConcurrentSample\\ConcurrentSample.csproj": {
+    "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\Collections\\ConcurrentSample\\ConcurrentSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\ConcurrentSample\\ConcurrentSample.csproj",
+        "projectUniqueName": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\Collections\\ConcurrentSample\\ConcurrentSample.csproj",
         "projectName": "ConcurrentSample",
-        "projectPath": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\ConcurrentSample\\ConcurrentSample.csproj",
+        "projectPath": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\Collections\\ConcurrentSample\\ConcurrentSample.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\ConcurrentSample\\obj\\",
+        "outputPath": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\Collections\\ConcurrentSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KaUBR5X04kqEgVlplfU5LMgT8fit1Q89InGFRLY4NerIVEBuSvd/E0Evjamn17afvuuOpHWbpkDWj9iOThspIw==",
+  "dgSpecHash": "4Xkce9QpNmx3ZAAj8RMkO7nyq+qjrtb7RB6XQ7agjHnuuhxOA2Ln86eRp0NPhhSR46MZsnT/EOR6jYW8ZFpj9A==",
   "success": true,
-  "projectFilePath": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\BitArraySample\\BitArraySample.csproj",
+  "projectFilePath": "D:\\Professional\\Study Materials\\SEM 6\\LAB-WORK--SEM-VI\\.NET LAB\\Lab-6\\Collections\\BitArraySample\\BitArraySample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

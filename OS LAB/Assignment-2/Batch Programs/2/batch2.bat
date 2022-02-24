@@ -1,5 +1,7 @@
 @echo off
 pushd
-start hello  
+call %1
+if not exist %1 call hello.exe
+echo.
 popd
 

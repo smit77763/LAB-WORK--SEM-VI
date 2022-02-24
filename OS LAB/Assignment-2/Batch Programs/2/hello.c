@@ -3,7 +3,7 @@
 int main()
 {
 
-    printf("Hello , world");
+    printf("Hello , world called from batch file ... :)");
 
     return 0;
 }
